@@ -7,7 +7,7 @@
 - ![DependencyAntdIcons](https://img.shields.io/badge/%40ant--design%2Ficons-%5E5.0.1-green)
 - ![DependencyReactRouterDom](https://img.shields.io/badge/react--router--dom-%5E6.8.1-green)
 
-# :hammer: Aprendizados:
+# :book: Aprendizados:
 
 - Diferenciar o comportamento de sites tradicionais e de SPAs ( Single Page Applications );
 - Utilizar o componente Link do react-router-dom;
