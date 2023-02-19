@@ -1,6 +1,7 @@
 <h1 align="center">Sobre Mim</h1>
 <h2>Projeto desenvolvido durante o curso "React: desenvolvendo em React Router com JavaScript" da Alura</h2>
 
+## Deploy: https://thiago-jurge.vercel.app/ ##
 # Dependencies:
 - ![DependencyReact](https://img.shields.io/badge/ReactJs-%5E18.2.0-green)
 - ![DependencyAntD](https://img.shields.io/badge/antd-%5E5.2.0-green)
@@ -21,5 +22,3 @@
 - Utilizar os seletores de rotas dinâmicas para criar uma rota dinâmica;
 - Utilizar o hook useParams.
 - Utilizar o hook useNavigate;
-
-## Deploy: https://thiago-jurge.vercel.app/ ##
