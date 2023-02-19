@@ -2,7 +2,7 @@
 <h2>Projeto desenvolvido durante o curso "React: desenvolvendo em React Router com JavaScript" da Alura</h2>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
-![GitHub Org's stars](https://img.shields.io/github/stars/thiago-jurge?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/ThiagoJurge?style=social)
 
 Diferenciar o comportamento de sites tradicionais e de SPAs;
 
